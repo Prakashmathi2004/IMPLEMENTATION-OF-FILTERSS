@@ -160,9 +160,11 @@ iv) Using Median Filter
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
-    <img width="479" alt="image" src="https://github.com/Prakashmathi2004/IMPLEMENTATION-OF-FILTERSS/assets/118350045/cac18629-bb77-411c-a62b-daa694ec5874">
+
+ <img width="479" alt="image" src="https://github.com/Prakashmathi2004/IMPLEMENTATION-OF-FILTERSS/assets/118350045/cac18629-bb77-411c-a62b-daa694ec5874">
 
 ii) Using Laplacian Operator
+
 <img width="475" alt="image" src="https://github.com/Prakashmathi2004/IMPLEMENTATION-OF-FILTERSS/assets/118350045/a9a619ea-dad4-4fc3-92b8-80e626bba620">
 
 ## Result:
