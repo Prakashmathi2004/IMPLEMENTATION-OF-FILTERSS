@@ -20,7 +20,7 @@ Apply the filters using cv2.filter2D() for each respective filters.
 ### Step5
 Plot the images of the original one and the filtered one using plt.figure() and cv2.imshow().
 
-Developed By   : PRAKASH M
+Developed By   : PRAKASH M   
 Register Number: 212222100035
 
 ## Program:
