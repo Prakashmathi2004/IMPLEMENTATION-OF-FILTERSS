@@ -20,8 +20,8 @@ Apply the filters using cv2.filter2D() for each respective filters.
 ### Step5
 Plot the images of the original one and the filtered one using plt.figure() and cv2.imshow().
 
-Developed By   : PRAKASH M   
-Register Number: 212222100035
+### Developed By   : PRAKASH M   
+### Register Number: 212222100035
 
 ## Program:
 ### 1. Smoothing Filters
@@ -142,20 +142,26 @@ plt.axis("off")
 ## OUTPUT:
 ### 1. Smoothing Filters
 i) Using Averaging Filter
+
 <img width="433" alt="image" src="https://github.com/Prakashmathi2004/IMPLEMENTATION-OF-FILTERSS/assets/118350045/17e46ba2-edad-4fea-a019-f41934c5da50">
 
 ii) Using Weighted Averaging Filter
+
 <img width="484" alt="image" src="https://github.com/Prakashmathi2004/IMPLEMENTATION-OF-FILTERSS/assets/118350045/c9e12ed5-abd5-4705-82c6-ea194406ddee">
 
 iii) Using Gaussian Filter
+
 <img width="473" alt="image" src="https://github.com/Prakashmathi2004/IMPLEMENTATION-OF-FILTERSS/assets/118350045/3c37f271-cec4-4d3f-8737-50694ee25add">
 
 iv) Using Median Filter
+
 <img width="479" alt="image" src="https://github.com/Prakashmathi2004/IMPLEMENTATION-OF-FILTERSS/assets/118350045/49ecd2d2-c6bf-4833-b5bf-71ddd69a510e">
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
+
 <img width="479" alt="image" src="https://github.com/Prakashmathi2004/IMPLEMENTATION-OF-FILTERSS/assets/118350045/cac18629-bb77-411c-a62b-daa694ec5874">
 ii) Using Laplacian Operator
+
 <img width="475" alt="image" src="https://github.com/Prakashmathi2004/IMPLEMENTATION-OF-FILTERSS/assets/118350045/a9a619ea-dad4-4fc3-92b8-80e626bba620">
 
 ## Result:
